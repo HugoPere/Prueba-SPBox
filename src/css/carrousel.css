@@ -1,0 +1,10 @@
+.tCenter{
+  position: relative;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tBorder{
+  border: 1px solid black;
+}
